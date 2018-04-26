@@ -1,0 +1,20 @@
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+	branch = rocko
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = rocko
+[submodule "meta-updater"]
+	path = meta-updater
+	url = https://github.com/advancedtelematic/meta-updater.git
+	branch = rocko
+[submodule "meta-rust"]
+	path = meta-rust
+	url = https://github.com/meta-rust/meta-rust.git
+	branch = rocko
+[submodule "meta-updater-raspberrypi"]
+	path = meta-updater-raspberrypi
+	url = https://github.com/advancedtelematic/meta-updater-raspberrypi.git
+	branch = rocko
